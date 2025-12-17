@@ -1,6 +1,6 @@
 # EqualMath 🧮
 
-A calculadora mais completa e moderna do mercado, desenvolvida com React Native e Expo SDK 52.
+A calculadora mais completa e moderna do mercado, desenvolvida com React Native e Expo SDK 54.
 
 ![EqualMath](./assets/icon.png)
 
@@ -163,3 +163,4 @@ Este projeto está sob a licença MIT.
 ---
 
 Feito com ❤️ para você
+
