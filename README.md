@@ -80,7 +80,7 @@ A calculadora mais completa e moderna do mercado, desenvolvida com React Native 
 ## Tecnologias
 
 - **React Native** - Framework mobile
-- **Expo SDK 52** - Plataforma de desenvolvimento
+- **Expo SDK 54** - Plataforma de desenvolvimento
 - **TypeScript** - Tipagem estática
 - **Math.js** - Biblioteca de cálculos avançados
 - **AsyncStorage** - Persistência de dados
@@ -161,5 +161,6 @@ Este projeto está sob a licença MIT.
 ---
 
 Feito com ❤️ para você
+
 
 
